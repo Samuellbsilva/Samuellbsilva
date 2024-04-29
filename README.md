@@ -1,8 +1,8 @@
 ### E ai comparça ☕️
 Seja bem vindo ao meu GitHub✍️
 
-- Alguns projetos meus são upados por aqui(fique a vontade para achar )✔️
- - Projetos serão upados em-HTML,CSS,JAVASCRIPT-PYTHON ✔️
+- Alguns projetos meus são upados por aqui(fique a vontade para dar uma olhada )✔️
+ - Projetos serão upados - HTML,CSS,Javascript,Vue JS,Bootstrapp ✔️
 
 -#GoTocode▶️
 
