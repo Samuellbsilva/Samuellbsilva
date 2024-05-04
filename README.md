@@ -3,13 +3,14 @@
   - 👨‍💻 Front-End Developer/Desenvolvedor Front-End
   - 🖱️ Estudando Web Development
   - 
-<div style="display: flex; align-items: flex-start;">
+    Principais Tecnologias:
+<div style="display: flex; align-items: center;">
  
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="82" height="82" />
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="82" height="82" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="72" height="72" />
- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" width="82" height="82" />
  <br>
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" width="82" height="82" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="72" height="72" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="72" height="72"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="72" height="72"/>         
