@@ -1,10 +1,23 @@
-### E ai comparça ☕️
-Seja bem vindo ao meu GitHub✍️
+### Opa meu nome é Samuel, bem vindo ao meu GitHub ☕️
 
-- Alguns projetos meus são upados por aqui(fique a vontade para dar uma olhada )✔️
- - Projetos serão upados - HTML,CSS,Javascript,Vue JS,Bootstrapp ✔️
+  - 👨‍💻 Front-End Developer/Desenvolvedor Front-End
+  - 🖱️ Estudando Web Development
+  - 
+<div style="display: flex; align-items: flex-start;">
+ 
+ <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="82" height="82" />
+ <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="82" height="82" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+           
+                  
+          
+</div>
 
--#GoTocode▶️
+-#LetsCode▶️
 
 <!--
 **invitaman/invitaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
