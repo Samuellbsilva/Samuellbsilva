@@ -4,7 +4,7 @@
   - 🖱️ Estudando Web Development
   - 
     Principais Tecnologias:
-<div style="display: flex; align-items: center;">
+<div style="display: flex; justify-content:center">
  
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="82" height="82" />
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="82" height="82" />
