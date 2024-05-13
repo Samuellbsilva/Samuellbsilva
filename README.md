@@ -2,7 +2,8 @@
 
   - 👨‍💻 Front-End Developer/Desenvolvedor Front-End
   - 🖱️ Estudando Web Development
-  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellbsilva&layout=compact)](https://github.com/Samuellbsilva/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuellbsilva&layout=compact)](https://github.com/Samuellbsilva/github-readme-stats)
+<br>
     Principais Tecnologias:
 <div style="display: flex; justify-content:center">
  
