@@ -1,5 +1,5 @@
 ### Opa meu nome é Samuel, bem vindo ao meu GitHub ☕️
-![Samuellbsilva GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuellbsilva&show_icons=true&theme=dracula)
+
   - 👨‍💻 Front-End Developer/Desenvolvedor Front-End
   - 🖱️ Estudando Web Development
   - 
