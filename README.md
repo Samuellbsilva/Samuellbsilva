@@ -1,39 +1,39 @@
-### Opa meu nome é Samuel, bem vindo ao meu GitHub ☕️
+<h2>Opa meu nome é Samuel, bem vindo ao meu GitHub ☕️</h2>
 
-  - 👨‍💻 Full Stack Developer/Desenvolvedor Fullstack
-  - 🖱️ Estudando Web Development
+  <p>- 👨‍💻 Full Stack Developer/Desenvolvedor Fullstack</p>
+  <p>- 🖱️ Estudando Web Development</p>
    <br>
     <h1>Principais Tecnologias:</h1>
-<div style="display: flex; justify-content:center; padding: 5%;">
- <table align="center">
+<div style="display: flex; justify-content:start; padding: 5%;">
+ <table align="start">
   <tr>
-     <td align="center" width="96">
+     <td align="start" width="96">
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="82" height="82"/>
           </td>
-     <td align="center" width="96">
+     <td align="start" width="96">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="55" height="55"/>
         </td>
     
-  <td align="center" width="96">
+  <td align="start" width="96">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="72" height="72" />
       </td>
       
-  <td align="center" width="96">
+  <td align="start" width="96">
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
           </td>
 
  </tr>
   <tr>
-    <td align="center" width="96">
+    <td align="start" width="96">
  <img src="https://skillicons.dev/icons?i=tailwind" width="72" height="72" alt="tailwind" />
  </td>
-    <td align="center" width="96">
+    <td align="start" width="96">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="72" height="72" />
  </td>
- <td align="center" width="96">
+ <td align="start" width="96">
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="82" height="82" />
  </td>
-   <td align="center" width="96">
+   <td align="start" width="96">
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" width="82" height="82" />       
          </td>          
   </tr>
