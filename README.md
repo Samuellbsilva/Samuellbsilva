@@ -8,11 +8,12 @@
  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="82" height="82" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="72" height="72" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="72" height="72"/>
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
  <br>
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="82" height="82" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="72" height="72" />
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" width="82" height="82" />
- 
+ <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
          
                   
           
