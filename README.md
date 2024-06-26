@@ -1,6 +1,6 @@
 ### Opa meu nome é Samuel, bem vindo ao meu GitHub ☕️
 
-  - 👨‍💻 Front-End Developer/Desenvolvedor Front-End
+  - 👨‍💻 Full Stack Developer/Desenvolvedor Fullstack
   - 🖱️ Estudando Web Development
     Principais Tecnologias:
 <div style="display: flex; justify-content:center">
