@@ -2,7 +2,8 @@
 
   - 👨‍💻 Full Stack Developer/Desenvolvedor Fullstack
   - 🖱️ Estudando Web Development
-    Principais Tecnologias:
+   <br>
+    <h1>Principais Tecnologias:</h1>
 <div style="display: flex; justify-content:center; padding: 5%;">
  <table align="center">
   <tr>
@@ -38,7 +39,8 @@
   </tr>
 </div>
 <br>
-#LetsCode▶️
+
+
 
 <!--
 **invitaman/invitaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
