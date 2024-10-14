@@ -21,21 +21,27 @@
   <td align="start" width="96">
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
           </td>
-
+    <td align="start" width="96">
+           <img src="https://skillicons.dev/icons?i=tailwind" width="72" height="72" alt="tailwind" />
+         </td>   
  </tr>
   <tr>
     <td align="start" width="96">
- <img src="https://skillicons.dev/icons?i=tailwind" width="72" height="72" alt="tailwind" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
  </td>
     <td align="start" width="96">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="72" height="72" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
  </td>
  <td align="start" width="96">
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="82" height="82" />
  </td>
    <td align="start" width="96">
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" width="82" height="82" />       
-         </td>          
+         </td> 
+    <td align="start" width="96">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="72" height="72" />
+    </td>     
+
   </tr>
 </div>
 <br>
