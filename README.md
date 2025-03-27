@@ -2,6 +2,11 @@
 
   <p>- 👨‍💻 Full Stack Developer/Desenvolvedor Fullstack</p>
   <p>- 🖱️ Estudando Web Development</p>
+
+  <div align="center">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuellbsilva&show_icons=true&theme=tokyonight" />
+</div>
    <br>
     <h1>Principais Tecnologias:</h1>
 <div style="display: flex; justify-content:start; padding: 5%;">
