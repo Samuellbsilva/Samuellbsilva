@@ -3,7 +3,7 @@
   <p>- 👨‍💻 Full Stack Developer/Desenvolvedor Fullstack</p>
   <p>- 🖱️ Estudando Web Development</p>
 
-  <div align="center">
+  <div align="start">
  
   <img src="https://github-readme-stats.vercel.app/api?username=Samuellbsilva&show_icons=true&theme=tokyonight" />
 </div>
