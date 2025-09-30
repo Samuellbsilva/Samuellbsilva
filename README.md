@@ -1,7 +1,7 @@
 <h2>Opa meu nome é Samuel, bem vindo ao meu GitHub ☕️</h2>
 
   <p>- 👨‍💻 Full Stack Developer/Desenvolvedor Fullstack</p>
-  <p>- 🖱️ Estudando Web Development</p>
+  <p>- 🖱️Criando soluções, e experiências</p>
    <br>
     <h1>Principais Tecnologias:</h1>
 <div style="display: flex; justify-content:start; padding: 5%;">
