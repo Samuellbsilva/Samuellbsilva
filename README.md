@@ -4,12 +4,6 @@
   <img src="./assets/White1.png" alt="Samuellbsilva Kit Logo adaptativo">
 </picture>
 
-   <p align="center">
-    ✨ <strong style="font-style:bold;">FullStack Dev</strong> O foco é sempre na Experiência desde, um simples botãozinho, até uma animação em GSAP.
-<br>
- 🛠️ <strong>Áreas de Estudo:</strong> Apaixonado por Vue.js e Next , Framer Motion, GSAP e Manipular Stores.
-<br>
-🎶 <strong>Hobbies:</strong> Equilibrando tudo com música, e principalmente a curiosidade</p>
 </div>
 <div align="center">
   <picture>
