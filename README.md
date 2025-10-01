@@ -9,7 +9,7 @@
 
 </div>
 
----
+--- 
 
 <h2 align="center">🛠️ Minhas Tecnologias (Tech Stack)</h2>
 
