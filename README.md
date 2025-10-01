@@ -32,13 +32,3 @@
   </picture>
 </div>
 
----
-
-<div align="center">
-  <p>
-    Creating Experiences in code
-  </p>
-  <p>
-    💬 Quer trocar uma ideia sobre código ou projetos? Me chame!
-  </p>
-</div>
