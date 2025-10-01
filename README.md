@@ -33,4 +33,10 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/samuellbsilva/samuellbsilva/output/github-snake.svg" />
   </picture>
 </div>
+<div align="center">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/Exp1.png">
+  <img src="./assets/Exp2.png" alt="Samuellbsilva Kit Logo adaptativo">
+</picture>
+  </div>
 
