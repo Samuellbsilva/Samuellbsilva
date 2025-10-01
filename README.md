@@ -13,11 +13,13 @@
   </div>
 <div align="center">
    <p> 
-     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="82" height="82" style="margin:10px"/> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="55" height="55" style="margin:20px"/> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="72"           height="72" style="margin:10px"/> 
-     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin:20px"/> 
-     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="72" height="72" style="margin:10px"/> 
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" style="margin: 10px;"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="65" height="65" style="margin: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="65" height="65" style="margin: 10px;"/>
+     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" style="margin: 10px;"/>
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65" style="margin: 10px;"/>
+     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" style="margin: 10px;"/>
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" style="margin: 10px;"/>
    </p> 
 </div>
 <br>
